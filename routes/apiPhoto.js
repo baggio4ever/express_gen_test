@@ -12,6 +12,11 @@ var photoList = [
         name: "photo002.jpg",
         type: "jpg",
         dataUrl: "http://localhost:3000/data/photo002.jpg"
+    },{
+        id: "003",
+        name: "photo003.jpg",
+        type: "jpg",
+        dataUrl: "http://localhost:3000/data/photo003.jpg"
     }
 ];
 
