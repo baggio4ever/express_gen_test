@@ -35,5 +35,10 @@ router.get("/:photoId", function(req, res, next){
     res.json(photo);
 });
 
+router.post("/post",function(req,res,next) {
+    res.send('POST requested!');
+});
+
+
 module.exports = router;
 
